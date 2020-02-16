@@ -1,0 +1,7 @@
+C:\Users\edwin.chale\source\repos\Observadores\Observadores\bin\Debug\Observadores.exe.config
+C:\Users\edwin.chale\source\repos\Observadores\Observadores\bin\Debug\Observadores.exe
+C:\Users\edwin.chale\source\repos\Observadores\Observadores\bin\Debug\Observadores.pdb
+C:\Users\edwin.chale\source\repos\Observadores\Observadores\obj\Debug\Observadores.csprojAssemblyReference.cache
+C:\Users\edwin.chale\source\repos\Observadores\Observadores\obj\Debug\Observadores.csproj.CoreCompileInputs.cache
+C:\Users\edwin.chale\source\repos\Observadores\Observadores\obj\Debug\Observadores.exe
+C:\Users\edwin.chale\source\repos\Observadores\Observadores\obj\Debug\Observadores.pdb
